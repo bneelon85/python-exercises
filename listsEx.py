@@ -27,6 +27,7 @@ for x in numbers:
     times5.append(x*5)
 
 print(times5)
+
 # Ex 8
 a=[1,3,6]
 b=[2,4,6]

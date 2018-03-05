@@ -57,3 +57,5 @@ text = input("What do you want a banner around? ")
 print("*"*(len(text)+4))
 print("* ",text," *",sep="")
 print("*"*(len(text)+4))
+
+#Bonus 2
